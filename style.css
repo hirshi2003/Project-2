@@ -1,0 +1,157 @@
+﻿body{
+    margin: 0.5px;
+    margin-bottom: 0;
+}
+
+h1{
+    color: #F5DEB3;
+    font-size: 3.222rem;
+}
+
+a{
+    box-sizing: right;
+
+}
+
+h3{
+    color: black;
+    font-family: 'Bree Serif', serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Concert One', cursive;
+    padding: 20px;
+    text-align: center;
+    font-size: 3.122rem;
+    margin: 50px auto 0 auto;
+    font-weight: normal;
+}
+.box{
+    background-color: black;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.top-img{
+    position: relative;
+    float: right;
+}
+
+p{
+    line-height: 2;
+    text-align: left;
+
+}
+
+.top-para{
+    color: wheat;
+}
+
+.upper-container {
+    background-color: black;
+    position: relative;
+    padding: 100px;
+}
+
+.middle-container{
+    background-color: gainsboro;
+    position: relative;
+    padding: 100px;
+}
+
+.lower-container{
+    background-color: black;
+    position: relative;
+    padding: 100px;
+}
+
+.lower-para{
+    color: wheat;
+}
+
+.lower-h3{
+    color: wheat;
+}
+
+.top-code-img {
+    width: 12%;
+    float: left;
+    margin-right: 30rem;
+    position: relative;
+}
+
+.middle-code-img {
+    width: 12%;
+    float: right;
+    margin-right: 20rem;
+    position: relative;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 1px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+  
+  .fa-android {
+    background: #a4c639;
+    color: white;
+  }
+  
+hr{
+    border-color:black;
+}
+
+.copyright{
+    color: black;
+    background-color:gainsboro;
+    font-size: 0.95rem;
+    padding: 30px 0;
+    text-align: center;
+    position: relative;
+}
+
+
+
